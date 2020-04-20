@@ -1,2 +1,4 @@
 Another file created in BR-1
 Changes done locally, not in remote repo yet
+
+This line was added in BR-2 locally
